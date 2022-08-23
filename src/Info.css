@@ -1,0 +1,22 @@
+img{
+    border-radius: 50%;
+}
+.user_data{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background-color: lightgray; */
+    border: 2px solid black;
+
+}
+.box{
+    
+    text-align: center;
+    border: 1px solid black;
+    height: 250px;
+    width: 400x;
+    margin: 10px;
+    border-radius: 30px;
+    background-color:lightgray;
+}
