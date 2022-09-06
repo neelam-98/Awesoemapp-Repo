@@ -3,9 +3,6 @@ import { useEffect } from "react";
 import './Info.css';
 
 function Data() {
-        useEffect (() => {
-        alert('Showing list of 10 users');
-    },[]);
     const data = [
         {
             img : "https://picsum.photos/id/1/100/100",
